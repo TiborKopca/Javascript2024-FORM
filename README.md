@@ -3,16 +3,16 @@
 
 ## Description & Functionality
 - Validation of empty field
-- Validation of email format
+- Validation of email format (using regular expression)
 - Display error message in every field
 - Random result of sending the form with a success or failure message
 - SVG spinner animation on submit
 
 ## Screenshot
-![here](/screenshot/Form.png)
+![here](/screenshots/Form.png)
 
 ## Online Link
-[github Pages Link](https://tiborkopca.github.io/)
+[github Pages Link](https://tiborkopca.github.io/Javascript2024-FORM/)
 
 ## Authors
 
